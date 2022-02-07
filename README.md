@@ -18,6 +18,10 @@
 | [Homework2_Ex1](https://github.com/AnriaruDoragon/VKMNAU-CPP-Exercises/blob/5bf332c3491a16489cc97b95eaa9a014a2615aa8/Homework2_Ex1/Homework2_Ex1.cpp) | Розробити програму на С++ для обчислення опору електричного кола, яке складається з двох поєднаних опорів: 1) за паралельного з’єднання опорів та 2) за послідовного з’єднання опорів в електричному колі. | [Classrooms](https://classroom.google.com/u/1/c/NDMwNDYxNjY3NjM1/a/NDMwNjA1OTA3NTgw/details) |
 | [Homework2_Ex2](https://github.com/AnriaruDoragon/VKMNAU-CPP-Exercises/blob/5bf332c3491a16489cc97b95eaa9a014a2615aa8/Homework2_Ex2/Homework2_Ex2.cpp) | Розробити програму на С++ для обчислення: *формули*. Розрахувати значення виразів y, x та p при m=7.4 та b=1.75. | [Classrooms](https://classroom.google.com/u/1/c/NDMwNDYxNjY3NjM1/a/NDMwNjA1OTA3NTgw/details) |
 | | | |
+| [Homework3_Ex1]() | Обчислити частку від ділення двох дійсних чисел, якщо це є можливо. | [02/07/2022](https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details) |
+| [Homework3_Ex2]() | Обчислити квадратний корінь числа, якщо це є можливо. | [02/07/2022](https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details) |
+| [Homework3_Ex3]() | Якщо змінні x та y є однаковими, обчислити їхній добуток, інакше – обчислити модуль їх різниці. | [02/07/2022](https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details) |
+| [Homework3_Ex4]() | Якщо модуль змінних x та y є менше за 10, збільшити їх удвічі; інакше – зменшити їх удвічі. | [02/07/2022](https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details) |
 
 ---
 
