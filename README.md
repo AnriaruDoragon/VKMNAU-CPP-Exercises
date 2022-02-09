@@ -22,6 +22,9 @@
 | [Homework3_Ex2](Homework3_Ex2/Homework3_Ex2.cpp) | Обчислити квадратний корінь числа, якщо це є можливо. | [02/07/2022] |
 | [Homework3_Ex3](Homework3_Ex3/Homework3_Ex3.cpp) | Якщо змінні x та y є однаковими, обчислити їхній добуток, інакше – обчислити модуль їх різниці. | [02/07/2022] |
 | [Homework3_Ex4](Homework3_Ex4/Homework3_Ex4.cpp) | Якщо модуль змінних x та y є менше за 10, збільшити їх удвічі; інакше – зменшити їх удвічі. | [02/07/2022] |
+| | | |
+| [Homework4_Ex1](Homework4_Ex1/Homework4_Ex1.cpp) | Тернарна умовна операція: ввести значення року та перевірити, чи є він високосним. | [02/09/2022] |
+| | | |
 
 ---
 
@@ -45,6 +48,7 @@
 [11/24/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDM3MDU2NzE5MzAw/details
 [11/25/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMwNjA1OTA3NTgw/details
 [02/07/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details
+[02/09/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMzAzOTA1MzM5/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
