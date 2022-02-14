@@ -25,6 +25,11 @@
 | | | |
 | [Homework4_Ex1](Homework4_Ex1/Homework4_Ex1.cpp) | Тернарна умовна операція: ввести значення року та перевірити, чи є він високосним. | [02/09/2022] |
 | | | |
+| [Homework5_Ex1](Homework5_Ex1/Homework5_Ex1.cpp) | Обчислити суму всіх двоцифрових чисел, кратних до числа 3. | [02/14/2022] |
+| [Homework5_Ex2](Homework5_Ex2/Homework5_Ex2.cpp) | Обчислити добуток парних чисел від 1 до 20. | [02/14/2022] |
+| [Homework5_Ex3](Homework5_Ex3/Homework5_Ex3.cpp) | Обчислити *формула*, значення m ввести з екрана. | [02/14/2022] |
+| [Homework5_Ex4](Homework5_Ex4/Homework5_Ex4.cpp) | Увести шість дійсних чисел та найбільше з них вивести на екран. | [02/14/2022] |
+| | | |
 
 ---
 
@@ -49,6 +54,7 @@
 [11/25/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMwNjA1OTA3NTgw/details
 [02/07/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details
 [02/09/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMzAzOTA1MzM5/details
+[02/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzMTA1/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
