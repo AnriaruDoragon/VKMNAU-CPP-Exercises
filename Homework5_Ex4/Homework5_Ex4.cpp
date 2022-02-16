@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    double x, max = 0;
+    double x, max = -DBL_MAX;
 
     for (int i = 0; i < 6; i++) {
         cout << "Число " << i + 1 << ": ";
