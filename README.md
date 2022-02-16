@@ -23,12 +23,21 @@
 | [Homework3_Ex3](Homework3_Ex3/Homework3_Ex3.cpp) | Якщо змінні x та y є однаковими, обчислити їхній добуток, інакше – обчислити модуль їх різниці. | [02/07/2022] |
 | [Homework3_Ex4](Homework3_Ex4/Homework3_Ex4.cpp) | Якщо модуль змінних x та y є менше за 10, збільшити їх удвічі; інакше – зменшити їх удвічі. | [02/07/2022] |
 | | | |
-| [Homework4_Ex1](Homework4_Ex1/Homework4_Ex1.cpp) | Тернарна умовна операція: ввести значення року та перевірити, чи є він високосним. | [02/09/2022] |
+| [Homework4_Ex1](Homework4_Ex1/Homework4_Ex1.cpp) | Тернарна умовна операція: ввести значення року та перевірити, чи є він високосним. | [02/08/2022] |
+| | | |
+| [Homework4x_Ex1](Homework4x_Ex1/Homework4x_Ex1.cpp) | Обчислити значення функції L = *формула*. | [02/08/2022] |
 | | | |
 | [Homework5_Ex1](Homework5_Ex1/Homework5_Ex1.cpp) | Обчислити суму всіх двоцифрових чисел, кратних до числа 3. | [02/14/2022] |
 | [Homework5_Ex2](Homework5_Ex2/Homework5_Ex2.cpp) | Обчислити добуток парних чисел від 1 до 20. | [02/14/2022] |
 | [Homework5_Ex3](Homework5_Ex3/Homework5_Ex3.cpp) | Обчислити *формула*, значення m ввести з екрана. | [02/14/2022] |
 | [Homework5_Ex4](Homework5_Ex4/Homework5_Ex4.cpp) | Увести шість дійсних чисел та найбільше з них вивести на екран. | [02/14/2022] |
+| | | |
+| [Homework6_Ex1](Homework6_Ex1/Homework6_Ex1.cpp) | Написати програму, яка обчислює наступну суму ряду: *формула* для заданої кількості членів ряду, яка вводиться користувачем з клавіатури. | [02/15/2022] |
+| [Homework6_Ex2](Homework6_Ex2/Homework6_Ex2.cpp) | Написати програму, яка обчислює наступну суму ряду: *формула* для заданої кількості членів ряду, яка вводиться користувачем з клавіатури. | [02/15/2022] |
+| [Homework6_Ex3](Homework6_Ex3/Homework6_Ex3.cpp) | Написати програму для перевірки знань таблиці множення. Програма має вивести 10 прикладів і виставити оцінку: за 10 правильних відповідей – “відмінно”, за 9 та 8 – “добре”, за 7 та 6 – “задовільно”, за 5 і менше – “погано”. | [02/15/2022] |
+| | | |
+| [Homework7_Ex1](Homework7_Ex1/Homework7_Ex1.cpp) | Написати алгоритм на приклад, розглянутий в лекції. | [02/16/2022] |
+| [Homework7_Ex2](Homework7_Ex2/Homework7_Ex2.cpp) | Скласти блок-схему, алгоритм та розробити програму на С++ для обчислення наступного приклада: Обчислити суму ряду *формула*. | [02/16/2022] |
 | | | |
 
 ---
@@ -53,8 +62,11 @@
 [11/24/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDM3MDU2NzE5MzAw/details
 [11/25/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMwNjA1OTA3NTgw/details
 [02/07/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTY5MzM2MzM2/details
-[02/09/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMzAzOTA1MzM5/details
+[02/08/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMzAzOTA1MzM5/details
+[02/09/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYwMTYzNTQwMjQw/details
 [02/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzMTA1/details
+[02/15/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDQwMTY5OTgw/details
+[02/16/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNDM2/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
