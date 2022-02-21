@@ -9,9 +9,8 @@ int main()
     cout << "Кількість членів: ";
     cin >> n;
 
-    for (int i = 1; i <= abs(n); i++) {
+    for (x; x <= n; x += 2) {
         S += 1 / x;
-        x += 2;
     }
 
     cout << endl << "S = " << S;
