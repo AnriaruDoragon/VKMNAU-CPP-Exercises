@@ -9,7 +9,7 @@ int main()
     cout << "m: ";
     cin >> m;
 
-    for (double i = 1; i <= m; i++) {
+    for (int i = 1; i <= m; i++) {
         if (i != 2) {
             p = 1;
             for (int k = 1; k <= i + 1; k++) {
