@@ -32,6 +32,13 @@
 | [Homework7_Ex1](Homework7_Ex1/Homework7_Ex1.cpp) | Написати алгоритм на приклад, розглянутий в лекції. | [02/16/2022] |
 | [Homework7_Ex2](Homework7_Ex2/Homework7_Ex2.cpp) | Скласти блок-схему, алгоритм та розробити програму на С++ для обчислення наступного приклада: Обчислити суму ряду *формула*. | [02/16/2022] |
 | | | |
+| [Homework8_Ex1](Homework8_Ex1/Homework8_Ex1.cpp) | Скласти алгоритми та розробити програми на С++ для обчислення суми знакозмінного ряду оператором циклу: for. | [02/21/2022] |
+| [Homework8_Ex2](Homework8_Ex2/Homework8_Ex2.cpp) | Скласти алгоритми та розробити програми на С++ для обчислення суми знакозмінного ряду оператором циклу: while. | [02/21/2022] |
+| [Homework8_Ex3](Homework8_Ex3/Homework8_Ex3.cpp) | Скласти алгоритми та розробити програми на С++ для обчислення суми знакозмінного ряду оператором циклу: do-while. | [02/21/2022] |
+| | | |
+| [Homework9_Ex1](Homework9_Ex1/Homework9_Ex1.cpp) | Розробити програми на С++ для обчислення квадратів натуральних чисел від 1 до 10 використовуючи оператор циклу: for. | [02/22/2022] |
+| [Homework9_Ex2](Homework9_Ex2/Homework9_Ex2.cpp) | Розробити програми на С++ для обчислення квадратів натуральних чисел від 1 до 10 використовуючи оператор циклу: while. | [02/22/2022] |
+| [Homework9_Ex3](Homework9_Ex3/Homework9_Ex3.cpp) | Розробити програми на С++ для обчислення квадратів натуральних чисел від 1 до 10 використовуючи оператор циклу: do-while. | [02/22/2022] |
 
 ---
 
@@ -60,6 +67,8 @@
 [02/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzMTA1/details
 [02/15/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDQwMTY5OTgw/details
 [02/16/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNDM2/details
+[02/21/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNTM4/details
+[02/22/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNjcy/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
