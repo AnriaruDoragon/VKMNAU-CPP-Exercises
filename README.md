@@ -39,6 +39,9 @@
 | [Homework9_Ex1](Homework9_Ex1/Homework9_Ex1.cpp) | Розробити програми на С++ для обчислення квадратів натуральних чисел від 1 до 10 використовуючи оператор циклу: __for__. | [02/22/2022] |
 | [Homework9_Ex2](Homework9_Ex2/Homework9_Ex2.cpp) | Розробити програми на С++ для обчислення квадратів натуральних чисел від 1 до 10 використовуючи оператор циклу: __while__. | [02/22/2022] |
 | [Homework9_Ex3](Homework9_Ex3/Homework9_Ex3.cpp) | Розробити програми на С++ для обчислення квадратів натуральних чисел від 1 до 10 використовуючи оператор циклу: __do-while__. | [02/22/2022] |
+| | | |
+| [Homework10_Ex1](Homework10_Ex1/Homework10_Ex1.cpp) | Скласти алгоритм та розробити програму на С++ для для введення одновимірного масиву з 8-ми дійсних чисел та обчислення суми усіх елементів масиву. | [02/23/2022] |
+| | | |
 
 ---
 
@@ -69,6 +72,7 @@
 [02/16/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNDM2/details
 [02/21/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNTM4/details
 [02/22/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNjcy/details
+[02/23/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDY3NTA0NDgwMzQ3/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
