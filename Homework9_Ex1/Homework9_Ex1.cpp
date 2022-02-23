@@ -3,7 +3,9 @@ using namespace std;
 
 int main()
 {
-    // TODO
+    for (int i = 1; i <= 10; i++) {
+        cout << i << "^2 = " << pow(i, 2) << endl;
+    }
 
     return 0;
 }
