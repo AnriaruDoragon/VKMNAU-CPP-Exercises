@@ -42,6 +42,12 @@
 | | | |
 | [Homework10_Ex1](Homework10_Ex1/Homework10_Ex1.cpp) | Скласти алгоритм та розробити програму на С++ для для введення одновимірного масиву з 8-ми дійсних чисел та обчислення суми усіх елементів масиву. | [02/23/2022] |
 | | | |
+| [Homework11_Ex1](Homework11_Ex1/Homework11_Ex1.cpp) | Розробити програму на мові С++ для введення масиву з 12-ти цілих чисел і обчислення кількості непарних елементів з проміжку (–10, 30). | [03/14/2022] |
+| [Homework11_Ex2](Homework11_Ex2/Homework11_Ex2.cpp) | Розробити програму на мові С++ для введення одновимірного масиву з N елементів та обчислення: добутку ненульових елементів; кількості від’ємних елементів; максимального елемента. | [03/14/2022] |
+| | | |
+| [Homework12_Ex1](Homework12_Ex1/Homework12_Ex1.cpp) | За введеним масивом з 10-ти цілих чисел створити новий масив, елементи якого обчислити, поділивши кожен з елементів початкового масиву на суму його елементів з непарними індексами. | [03/15/2022] |
+| [Homework12_Ex2](Homework12_Ex2/Homework12_Ex2.cpp) | Ввести масив з N дійсних чисел і з’ясувати, чи є він упорядкованим за зростанням (тобто кожне наступне число більше за попереднє). | [03/15/2022] |
+| | | |
 
 ---
 
@@ -73,6 +79,8 @@
 [02/21/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNTM4/details
 [02/22/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDYxNDM4NTgzNjcy/details
 [02/23/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDY3NTA0NDgwMzQ3/details
+[03/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDU5OTQ1ODQwODM1/details
+[03/15/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MDc3ODg1NDU2/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
