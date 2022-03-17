@@ -48,6 +48,8 @@
 | [Homework13_Ex1](Homework12_Ex1/Homework12_Ex1.cpp) | За введеним масивом з 10-ти цілих чисел створити новий масив, елементи якого обчислити, поділивши кожен з елементів початкового масиву на суму його елементів з непарними індексами. | [03/15/2022] |
 | [Homework13_Ex2](Homework12_Ex2/Homework12_Ex2.cpp) | Ввести масив з N дійсних чисел і з’ясувати, чи є він упорядкованим за зростанням (тобто кожне наступне число більше за попереднє). | [03/15/2022] |
 | | | |
+| [Homework14_Ex1](Homeworks/14/Homework14_Ex1.cpp) | Поміняти місцями значення двох змінних, не використовуючи третю змінну. | [03/16/2022] |
+| | | |
 
 ---
 
@@ -81,6 +83,7 @@
 [02/23/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDY3NTA0NDgwMzQ3/details
 [03/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDU5OTQ1ODQwODM1/details
 [03/15/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MDc3ODg1NDU2/details
+[03/16/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MjY2OTI4OTY3/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
