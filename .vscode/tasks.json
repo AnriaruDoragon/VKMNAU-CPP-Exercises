@@ -35,7 +35,7 @@
 		},
 		{
 			"type": "shell",
-			"label": "C/C++: Run file",
+			"label": "C/C++: Fast execute",
 			"command": "del ${fileDirname}\\${fileBasenameNoExtension}.exe",
 			"group": {
 				"kind": "build",
