@@ -50,6 +50,8 @@
 | | | |
 | [Homework14_Ex1](Homeworks/14/Homework14_Ex1.cpp) | Поміняти місцями значення двох змінних, не використовуючи третю змінну. | [03/16/2022] |
 | | | |
+| [Homework15_Ex1](Homeworks/15/Homework15_Ex1.cpp) | Скласти алгоритм, блок-схему та  програму на С++ для сортування N елементів одномірного масиву за спаданням. | [03/25/2022] |
+| | | |
 
 ---
 
@@ -84,6 +86,7 @@
 [03/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDU5OTQ1ODQwODM1/details
 [03/15/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MDc3ODg1NDU2/details
 [03/16/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MjY2OTI4OTY3/details
+[03/25/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzUzNjA5NzAxNjY5/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
