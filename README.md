@@ -52,6 +52,10 @@
 | | | |
 | [Homework15_Ex1](Homeworks/15/Homework15_Ex1.cpp) | Скласти алгоритм, блок-схему та  програму на С++ для сортування N елементів одномірного масиву за спаданням. | [03/25/2022] |
 | | | |
+| [Homework16_Ex1](Homeworks/16/Homework16_Ex1.cpp) | Виконати завдання про таблицю множення, розглянуте в кінці лекції. | [03/28/2022] |
+| | | |
+| [Homework17_Ex1](Homeworks/17/Homework17_Ex1.cpp) | Скласти програму для введення та виведення масиву дійсних чисел розмірністю 3 на 5 та знаходження максимального елемента масиву та його індексів. | [03/29/2022] |
+| | | |
 
 ---
 
@@ -87,6 +91,8 @@
 [03/15/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MDc3ODg1NDU2/details
 [03/16/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDc3MjY2OTI4OTY3/details
 [03/25/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzUzNjA5NzAxNjY5/details
+[03/28/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDgxNTg5ODI4NDUw/details
+[03/29/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDkyNzgxMzY1ODY4/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
