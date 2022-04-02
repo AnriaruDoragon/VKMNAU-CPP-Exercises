@@ -56,6 +56,10 @@
 | | | |
 | [Homework17_Ex1](Homeworks/17/Homework17_Ex1.cpp) | Скласти програму для введення та виведення масиву дійсних чисел розмірністю 3 на 5 та знаходження максимального елемента масиву та його індексів. | [03/29/2022] |
 | | | |
+| [Homework18_Ex1](Homeworks/18/Homework18_Ex1.cpp) | Дана таблиця оцінок з предметів. Знайти загальний бал з усіх предметів для кожного студента, або знайти суму всіх елементів по кожному рядку двомірного масиву. | [03/30/2022] |
+| | | |
+| [Homework19_Ex1](Homeworks/19/Homework19_Ex1.cpp) | Скласти алгоритм та програму на мові С++ для обчислення сум від’ємних елементів стовпчиків масиву цілих чисел розмірністю 5х7. | [03/31/2022] |
+| | | |
 
 ---
 
@@ -93,6 +97,8 @@
 [03/25/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzUzNjA5NzAxNjY5/details
 [03/28/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDgxNTg5ODI4NDUw/details
 [03/29/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDkyNzgxMzY1ODY4/details
+[03/30/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzUzODA3MjU2Njgx/details
+[03/31/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDkzMzgxNjY3ODYy/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
