@@ -60,6 +60,10 @@
 | | | |
 | [Homework19_Ex1](Homeworks/19/Homework19_Ex1.cpp) | Скласти алгоритм та програму на мові С++ для обчислення сум від’ємних елементів стовпчиків масиву цілих чисел розмірністю 5х7. | [03/31/2022] |
 | | | |
+| [Homework20_Ex1](Homeworks/20/Homework20_Ex1.cpp) | З елементів масиву розмірністю 4х7 дійсних чисел обчислити добутки ненульових елементів парних стовпчиків масиву. | [04/04/2022] |
+| | | |
+| [Homework21_Ex1](Homeworks/21/Homework21_Ex1.cpp) | Скласти алгоритм та програму на С++: Обчислити елементи матриці 5х3 за формулою: *формула* | [04/05/2022] |
+| | | |
 
 ---
 
@@ -99,6 +103,8 @@
 [03/29/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDkyNzgxMzY1ODY4/details
 [03/30/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzUzODA3MjU2Njgx/details
 [03/31/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDkzMzgxNjY3ODYy/details
+[04/04/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MDAzMDE0OTY2/details
+[04/05/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MDAzMjUxMzMw/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
