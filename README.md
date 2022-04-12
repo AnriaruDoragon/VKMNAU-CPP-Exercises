@@ -64,6 +64,8 @@
 | | | |
 | [Homework21_Ex1](Homeworks/21/Homework21_Ex1.cpp) | Скласти алгоритм та програму на С++: Обчислити елементи матриці 5х3 за формулою: *формула* | [04/05/2022] |
 | | | |
+| [Homework22_Ex1](Homeworks/22/Homework22_Ex1.cpp) | Обчислити значення виразу використовуючи функцію. | [04/11/2022] |
+| | | |
 
 ---
 
@@ -126,6 +128,7 @@
 [03/31/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDkzMzgxNjY3ODYy/details
 [04/04/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MDAzMDE0OTY2/details
 [04/05/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MDAzMjUxMzMw/details
+[04/11/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MzQwNDM0ODUx/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
