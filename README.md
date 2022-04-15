@@ -66,6 +66,14 @@
 | | | |
 | [Homework22_Ex1](Homeworks/22/Homework22_Ex1.cpp) | Обчислити значення виразу використовуючи функцію. | [04/11/2022] |
 | | | |
+| [Homework23_Ex1](Homeworks/23/Homework23_Ex1.cpp) | Увести матрицю дійсних чисел розмірності 4х3 й обчислити за допомогою функції мінімальний елемент матриці. | [04/12/2022] |
+| | | |
+| [Homework24_Ex1](Homeworks/24/Homework24_Ex1.cpp) | Написати функцію, яка виконує ділення одного цілого числа на друге. Якщо друге число не визначено, то виконується ділення на 2. | [04/13/2022] |
+| [Homework24_Ex2](Homeworks/24/Homework24_Ex2.cpp) | Увести послідовність цілих чисел і обчислити за допомогою функції зі змінною кількістю параметрів середнє значення цієї послідовності. За завершенням послідовності слід вважати значення, яке дорівнює -1. | [04/13/2022] |
+| | | |
+| [Homework25_Ex1](Homeworks/25/Homework25_Ex1.cpp) | Увести ціле число і вивести всі цифри, які зображують це число. | [04/14/2022] |
+| [Homework25_Ex2](Homeworks/25/Homework25_Ex2.cpp) | Створити рекурсивну функцію піднесення числа до степеня. Аргументами цієї функції мають бути певне дійсне число, яке буде підноситися до степеня, і, безпосередньо, показник степеня цілого типу. | [04/14/2022] |
+| | | |
 
 ---
 
@@ -129,6 +137,9 @@
 [04/04/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MDAzMDE0OTY2/details
 [04/05/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MDAzMjUxMzMw/details
 [04/11/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MzQwNDM0ODUx/details
+[04/12/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDk5ODQwNzc1NTk5/details
+[04/13/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MzQyNTY4NTk0/details
+[04/14/2022]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/MzU0MzQ0NjcwMzcz/details
 
 <!-- Work classrom links -->
 [11/30/2021]: https://classroom.google.com/c/NDMwNDYxNjY3NjM1/a/NDMzNzQ3ODcxNzY2/details
